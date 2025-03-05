@@ -1,7 +1,3 @@
-Here’s a brief explanation, example code, and the expected output for each topic:
-
----
-
 ### **1. Defining a Function**
 A function is a block of reusable code that performs a specific task. Functions help in code reusability and modularity.
 
