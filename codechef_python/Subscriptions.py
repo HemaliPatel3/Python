@@ -19,5 +19,5 @@ def main():
         a,b = map(int,input().split())
         sub = Sub(a,b)
         print(sub.cal())
-if __name__ = '__main__':
+if __name__ == '__main__':
     main()
