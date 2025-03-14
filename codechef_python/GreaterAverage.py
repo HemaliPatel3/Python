@@ -21,7 +21,7 @@ class GRE:
             return 'no'
 def main():
     for i in range(int(input)):
-    a,b,c = map(int,input().self())
+    a,b,c = map(int,input().split())
     gre = GRE(a,b,c)
     print(gre.cal())
 if __name__ == '__main__':
